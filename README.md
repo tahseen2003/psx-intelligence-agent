@@ -11,7 +11,7 @@ This AI agent system reads multiple PSX market data sources, extracts financial 
 ## Tech Stack
 
 - **Python** — Core language
-- **Google Gemini 2.0 Flash** — AI/LLM engine
+- **llama-3.1-8b-instant** — AI/LLM engine
 - **Streamlit** — Frontend dashboard
 - **Antigravity Orchestrator** — Pipeline controller
 
