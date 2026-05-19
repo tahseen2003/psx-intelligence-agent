@@ -1,0 +1,109 @@
+=====================================================
+     PAKISTAN STOCK EXCHANGE (PSX) — DAILY MARKET REPORT
+     Date: May 19, 2026 | Trading Session: Regular
+=====================================================
+
+📊 KSE-100 INDEX SUMMARY
+-----------------------------------------
+Opening       : 78,245.32
+High          : 79,102.67
+Low           : 77,890.11
+Closing       : 78,956.44
+Change        : +711.12 (+0.91%)
+Volume        : 385.6 Million Shares
+Value Traded  : PKR 18.7 Billion
+
+📈 MARKET OVERVIEW
+-----------------------------------------
+The KSE-100 index closed at 78,956 points, gaining 711 points (+0.91%)
+in today's session. The market opened with bullish momentum driven by
+strong quarterly earnings from the banking sector. Foreign investors
+showed renewed interest with a net inflow of USD 12.3 million, the
+highest single-day inflow in the past 3 months.
+
+Total market capitalization reached PKR 9.45 trillion, up from
+PKR 9.38 trillion in the previous session.
+
+📊 SECTOR PERFORMANCE
+-----------------------------------------
+BANKING SECTOR:
+The banking sector led the rally with a 2.1% gain. HBL surged 3.4%
+to PKR 168.50 after reporting Q1 2026 profit of PKR 18.2 billion,
+beating analyst estimates by 12%. UBL gained 2.8% to PKR 285.00 on
+the back of strong net interest margin expansion. MCB and ABL also
+posted gains of 1.9% and 1.5% respectively.
+
+Analyst consensus: Banking sector outlook remains BULLISH for Q2 2026
+due to high interest rate environment benefiting net interest income.
+
+ENERGY SECTOR:
+The energy sector showed mixed performance. OGDC declined 1.2% to
+PKR 98.40 amid concerns over declining crude oil prices globally.
+PPL fell 0.8% to PKR 82.30. However, HUBC gained 1.5% on strong
+power generation numbers.
+
+Oil prices dropped to USD 68.50/barrel (Brent Crude), putting
+pressure on exploration and production companies.
+
+CEMENT SECTOR:
+Cement stocks showed strength with LUCK gaining 2.3% to PKR 892.00
+on reports of increased construction activity in southern Pakistan.
+DGKC rose 1.7% and MLCF gained 1.1%. Cement dispatches for April
+2026 were up 15% year-over-year.
+
+FERTILIZER SECTOR:
+ENGRO gained 1.8% to PKR 345.00 after announcing a special dividend
+of PKR 15 per share. FFC remained flat at PKR 112.50.
+
+TECHNOLOGY SECTOR:
+TRG Pakistan continued its volatile trend, falling 3.2% to PKR 78.50.
+Systems Limited gained 0.9% to PKR 615.00 on expectations of
+strong IT export numbers for Q1 2026.
+
+📉 FOREIGN INVESTOR ACTIVITY
+-----------------------------------------
+Foreign Institutional Investors (FII):
+  Net Buy  : USD 12.3 Million
+  Gross Buy: USD 28.7 Million
+  Gross Sell: USD 16.4 Million
+
+Key buying seen in: Banking (45%), Cement (25%), Energy (20%)
+This marks the 5th consecutive session of net foreign buying.
+
+📋 TOP GAINERS
+-----------------------------------------
+1. HBL     +3.4%   PKR 168.50   (Banking)
+2. LUCK    +2.3%   PKR 892.00   (Cement)
+3. UBL     +2.8%   PKR 285.00   (Banking)
+4. ENGRO   +1.8%   PKR 345.00   (Fertilizer)
+5. HUBC    +1.5%   PKR 48.20    (Energy)
+
+📋 TOP LOSERS
+-----------------------------------------
+1. TRG     -3.2%   PKR 78.50    (Technology)
+2. OGDC    -1.2%   PKR 98.40    (Energy)
+3. PPL     -0.8%   PKR 82.30    (Energy)
+4. HCAR    -0.6%   PKR 215.00   (Automobile)
+5. SEARL   -0.5%   PKR 67.80    (Pharma)
+
+⚠️ KEY RISKS & OUTLOOK
+-----------------------------------------
+1. SBP Monetary Policy meeting scheduled for May 26, 2026.
+   Market expects a 50 basis point rate cut.
+2. PKR/USD exchange rate stable at 285.50.
+3. Political stability concerns remain low.
+4. IMF review meeting scheduled for June 2026.
+5. Global oil prices remain volatile.
+
+🔮 ANALYST RECOMMENDATION
+-----------------------------------------
+Overall market sentiment: MODERATELY BULLISH
+Recommended sectors: Banking, Cement
+Sectors to watch: Energy (dependent on oil prices)
+KSE-100 target for June 2026: 82,000 - 84,000 points
+
+=====================================================
+     Report prepared by PSX Research Division
+     Disclaimer: For informational purposes only.
+     Not to be considered as investment advice.
+=====================================================
