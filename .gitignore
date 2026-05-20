@@ -2,5 +2,4 @@
 data/.env
 data/api.env
 __pycache__/
-*.pyc
-config.py
+*.pyc

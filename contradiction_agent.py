@@ -4,7 +4,22 @@
 #  Ranks credibility and gives resolution
 # =====================================================
 
-from config import get_completion
+from groq import Groq
+import os
+import streamlit as st
+
+def get_completion(prompt):
+    try:
+        api_key = st.secrets["GROQ_API_KEY"]
+    except:
+        api_key = os.getenv("GROQ_API_KEY")
+    
+    client = Groq(api_key=api_key)
+    response = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response.choices[0].message.content
 
 
 def detect_contradictions(sources_data):
