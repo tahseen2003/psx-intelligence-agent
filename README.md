@@ -1,8 +1,14 @@
-<<<<<<< HEAD
 # 📈 PSX Content-to-Action Agent
 
 **AISeekho 2026 Hackathon — Challenge 1**
 **Domain: Pakistan Stock Exchange (PSX)**
+
+## Team
+
+| Role | Name |
+|------|------|
+| 🎯 **Project Leader** | **Saddam Hussain** |
+| 💻 **Developer** | **Tahseen Ullah** |
 
 ## What It Does
 
@@ -10,9 +16,9 @@ This AI agent system reads multiple PSX market data sources, extracts financial 
 
 ## Tech Stack
 
-- **Python** — Core language
-- **llama-3.1-8b-instant** — AI/LLM engine
-- **Streamlit** — Frontend dashboard
+- **Python 3** — Core language
+- **Groq API** (llama-3.1-8b-instant) — AI/LLM engine
+- **Streamlit** — Frontend dashboard (Glassmorphism UI)
 - **Antigravity Orchestrator** — Pipeline controller
 
 ## Agent Architecture
@@ -46,7 +52,7 @@ python main.py
 ## Project Structure
 
 ```
-├── config.py              # Gemini API setup
+├── config.py              # Groq API setup
 ├── reader_agent.py        # Multi-source reader
 ├── insight_agent.py       # Financial insight extraction
 ├── contradiction_agent.py # Cross-source contradiction detection
@@ -62,9 +68,9 @@ python main.py
     └── psx_news_article.txt
 ```
 
-## Team
+## Credits
 
-Built for AISeekho 2026 Hackathon — Challenge 1
-=======
-# psx-intelligence-agent
->>>>>>> 4021a62070de7993aeb60f8b9c7276fb615dab22
+- **Project Leader:** Saddam Hussain
+- **Developer:** Tahseen Ullah
+- **Hackathon:** AISeekho 2026 — Challenge 1
+- **Powered by:** Groq API + Streamlit + Python
